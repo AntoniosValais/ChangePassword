@@ -54,6 +54,7 @@ public class ChangePasswordController
         public void actionPerformed(ActionEvent e)
         {
             // Den mou aresei auto
+            // Tha valw akoma ena comment
             System.exit( 0 );
         }
     }
