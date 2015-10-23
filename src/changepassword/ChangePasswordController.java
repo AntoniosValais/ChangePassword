@@ -53,6 +53,7 @@ public class ChangePasswordController
     {
         public void actionPerformed(ActionEvent e)
         {
+            // Den mou aresei auto
             System.exit( 0 );
         }
     }
